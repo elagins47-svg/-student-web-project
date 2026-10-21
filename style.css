@@ -34,3 +34,12 @@ main {
     border-radius: 12px;
     box-shadow: 0 4px 15px #00000010;
 }
+
+.projects {
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.projects h2 {
+    color: #333;
+}
